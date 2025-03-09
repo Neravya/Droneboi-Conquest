@@ -4,7 +4,7 @@
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
-        "RGB": [0, 163, 0],
+        "RGB": [50, 50, 80],
         "uniques": []
     }
 ]
