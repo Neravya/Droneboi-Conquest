@@ -7,7 +7,7 @@
 	"movementCost": 1,
         "RGB": [20, 20, 40],
         "uniques": [],
-},
+}
 	//BASE TERRAIN FEATURES
 {
     "name": "Asteroids",
@@ -28,5 +28,5 @@
                 "Considered [Desirable] when determining start locations",
                 "Considered [Production] when determining start locations",
                 "Every [22] tiles with this terrain will receive a major deposit of a strategic resource."],
-},
+}
 ]
