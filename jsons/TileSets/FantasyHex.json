@@ -1,0 +1,7 @@
+{
+  "useColorAsBaseTerrain": "false",
+  "rulevariants": {
+  //Space and Asteroids
+  "Space+Asteroids": ["Space", "Asteroids"],
+  }
+}
