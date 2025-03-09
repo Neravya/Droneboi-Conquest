@@ -17,7 +17,7 @@
     "overrideStats": true,
     "defenceBonus": 0.5,
     "RGB": [60, 60, 80],
-    "occursOn": [Space],
+    "occursOn": ["Space"],
     "uniques": ["Rough Terrain",
                 "[+5] Strength for cities built on this terrain",
                 "Has an elevation of [2] for visibility calculations",
