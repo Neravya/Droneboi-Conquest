@@ -1,11 +1,11 @@
 [
 {
-	"name": "Space",
-	"type": "Land",
-	"food": 2,
-	"movementCost": 1,
-        "RGB": [20, 20, 40],
-        "uniques": [],
+    "name": "Space",
+    "type": "Land",
+    "food": 2,
+    "movementCost": 1,
+    "RGB": [20, 20, 40],
+    "uniques": [],
 },
 {
     "name": "Asteroids",
