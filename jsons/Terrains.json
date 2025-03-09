@@ -5,7 +5,7 @@
     "type": "Land",
     "food": 2,
     "movementCost": 1,
-    "RGB": [20, 20, 40],
+    "RGB": [150, 150, 150],
     "uniques": [],
 },
     //Terrain Features
