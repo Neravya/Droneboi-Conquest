@@ -33,7 +33,7 @@
 {
     "name": "Nebula",
     "type": "TerrainFeature",
-    "gold": 1,
+    "production": 1,
     "movementCost": 1,
     "overrideStats": false,
     "RGB": [0,0,150],
@@ -42,7 +42,7 @@
                 "Has an elevation of [2] for visibility calculations",
                 "Occurs in groups around high elevations",
                 "[+1] to Fertility for Map Generation",
-                "A Region is formed with at least [20]% [Nebula] tiles, with priority [5]",
+                "A Region is formed with at least [30]% [Nebula] tiles, with priority [5]",
                 "Base Terrain on this tile is not counted for Region determination",
                 "Considered [Desirable] when determining start locations",
                 "Every [7] tiles with this terrain will receive a major deposit of a strategic resource."],
